@@ -58,24 +58,24 @@ npx react-native run-ios
 
 <tr>
 <td>
-<img src="src/assets/projectImages/login.png" width="200" heigth="100" >
+<img src="https://github.com/EmineCaki/keepbuy/blob/main/src/assets/projectImages/login.png" width="200" heigth="100" >
 </td>
 <td>
-<img src="src/assets/projectImages/newuser.png" width="200" heigth="100">
+<img src="https://github.com/EmineCaki/keepbuy/blob/main/src/assets/projectImages/newuser.png" width="200" heigth="100">
 </td>
 <td>
-<img src="src/assets/projectImages/home.png" width="200" heigth="100">
+<img src="https://github.com/EmineCaki/keepbuy/blob/main/src/assets/projectImages/home.png" width="200" heigth="100">
 </td>
 </tr>
 <tr>
 <td>
-<img src="src/assets/projectImages/favorites.png" width="200" heigth="100" >
+<img src="https://github.com/EmineCaki/keepbuy/blob/main/src/assets/projectImages/favorites.png" width="200" heigth="100" >
 </td>
 <td>
-<img src="src/assets/projectImages/cart.png" width="200" heigth="100" >
+<img src="https://github.com/EmineCaki/keepbuy/blob/main/src/assets/projectImages/cart.png" width="200" heigth="100" >
 </td>
 <td>
-<img src="src/assets/projectImages/search.png" width="200" heigth="100" >
+<img src="https://github.com/EmineCaki/keepbuy/blob/main/src/assets/projectImages/search.png" width="200" heigth="100" >
 </td>
 </tr>
 
